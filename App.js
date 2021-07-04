@@ -4,7 +4,7 @@ import {NavigationContainer} from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
 import SpaceCrafts from "./screens/StarMap";
 import DailyPic from "./screens/DailyPic";
-import SpaceCrafts from "./screens/SpaceCrafts";
+import StarMap from "./screens/StarMap";
 import Home from "./screens/Home";
 const Stack = createStackNavigator();
 
